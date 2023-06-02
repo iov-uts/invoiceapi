@@ -15,12 +15,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
-<<<<<<< HEAD
-@CrossOrigin(origins = { "http://localhost:4200"})
-=======
 
-// @CrossOrigin(origins = { "http://localhost:4200"})
->>>>>>> 151719a8ff77a21102cd57c8e9e0ffad0e7a04a8
 @RestController
 @RequestMapping("/api")
 public class clienteRestController {
